@@ -32,7 +32,7 @@
 #endif
 
 #ifdef __linux__
-#include <postgresql/libpq-fe.h>
+#include <libpq-fe.h>
 #endif
 
 enum pg_query_type
